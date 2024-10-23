@@ -1,0 +1,2 @@
+# mailcow
+fast install
